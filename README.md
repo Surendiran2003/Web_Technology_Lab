@@ -1,5 +1,6 @@
 # For ACN_Lab (Computer networks) Refer - https://github.com/Surendiran2003/Computer-networks-Lab.git
 # online-book-store-project-in-php
+![Home-Page](https://github.com/Surendiran2003/Web_Technology_Lab/blob/master/Output.png)
 
 This is an simple online web store was made by using php , mysql and bootstrap. the sql for database is put in folder database. the database contains many tables.
 
@@ -31,7 +32,6 @@ Online Book store Project Report are also available on the website  any one can 
 
     Create a new database named “www_project”
     Import “www_project.sql” file from database folder(See in downloaded folder)
-    ![image](https://github.com/user-attachments/assets/938311ef-7d12-47ee-abcb-d4000cfd6dc0)
 
 
 ## Admin Login Details
