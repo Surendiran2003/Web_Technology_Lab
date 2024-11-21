@@ -31,6 +31,8 @@ Online Book store Project Report are also available on the website  any one can 
 
     Create a new database named “www_project”
     Import “www_project.sql” file from database folder(See in downloaded folder)
+    ![image](https://github.com/user-attachments/assets/938311ef-7d12-47ee-abcb-d4000cfd6dc0)
+
 
 ## Admin Login Details
 
